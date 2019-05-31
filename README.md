@@ -1,4 +1,4 @@
-# Android
+# Uiiverse for Android
 The Uiiverse experience on Android
 ## Building
 - Clone this repo
